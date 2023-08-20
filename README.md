@@ -9,7 +9,7 @@
 <ul>
 
     * have python on your computer
-    * run installer.bat for install require
-    * enjoy tools 😁
+    * do pip install discord.py==1.7.3
+    * enjoy bot 😁
 
 </ul>
